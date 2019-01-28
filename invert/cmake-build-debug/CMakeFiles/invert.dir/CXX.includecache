@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Benjamin/Documents/School/CS310 C++/HW/invert/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+stdio.h
+-
+
